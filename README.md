@@ -12,10 +12,10 @@ The SAP on Azure Migration CAF Solution Factory has Technical and Sales Enableme
  * [SAP on Azure Migration CAF Pre-Sales](/SalesEnablement/)   
    Sales material for SAP on Azure Migration and Cloud Adoption Framework
 
-* [ToolKit Docs: Server Adoption Aligned To Cloud Adoption Framework](/TechnicalEnablement)  
-   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
-    [ToolKit_Docs_Aligned_To_Cloud_Adoption_Framework_for_SAPonAzure](/TechnicalEnablement/Microsoft Azure CAF Enablement Kit for Partners - SAP on Azure.docx)  
-    [ToolKit_Docs_SAPonAzure_Migration_Deployment_Guide](/TechnicalEnablement/Microsoft Azure CAF Enablement Kit for Partners - SAP on Azure_Deployment_Guide.docx)  
+* [ToolKit Docs: SAP on Azure Migration Aligned To Cloud Adoption Framework](/TechnicalEnablement)  
+   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SAP on Azure Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SAP on Azure migration and management aligned to the Cloud Adoption Framework methodology.
+ *   [ToolKit_Docs_Aligned_To_Cloud_Adoption_Framework_for_SAPonAzure](/TechnicalEnablement/Microsoft Azure CAF Enablement Kit for Partners - SAP on Azure.docx)
+ *   [ToolKit_Docs_SAPonAzure_Migration_Deployment_Guide](/TechnicalEnablement/Microsoft Azure CAF Enablement Kit for Partners - SAP on Azure_Deployment_Guide.docx)  
     
 ## Additional Links
  [SAP Solutions on Azure](https://azure.microsoft.com/en-us/solutions/sap/)  

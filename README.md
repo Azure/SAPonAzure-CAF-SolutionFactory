@@ -1,31 +1,39 @@
+# SAP on Azure Migration Solution Factory Aligned to Cloud Adoption Framework # 
+The SAP on Azure Migration CAF Solution Factory has contents to help migration of SAP Workload to Azure in alignment to Cloud Adoption Framework. 
 
-# Contributing
+The SAP on Azure Migration CAF Solution Factory has Technical and Sales Enablement contents for migrating SAP workload to Azure. The sale content contains PowerPoint for SAP on Azure Migration and CAF. The technical enablement contains toolkit documents that describes what needs to happen during a SAP workload Migration aligned to Cloud Adoption Framework  
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+ The Azure Cloud Adoption Journey
+ ![CAF](/CAF.png)
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+# SAP on Azure Migration CAF Solution Factory Contents
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Pre-Sales Contents    
+ * [SAP on Azure Migration CAF Pre-Sales](/SalesEnablement/)   
+   Sales material for SAP on Azure Migration and Cloud Adoption Framework
 
-# Legal Notices
+* [ToolKit Docs: SAP on Azure Migration Aligned To Cloud Adoption Framework](/TechnicalEnablement)  
+   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SAP on Azure Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SAP on Azure migration and management aligned to the Cloud Adoption Framework methodology.
+ * [ToolKit_Docs_Aligned_To_Cloud_Adoption_Framework_for_SAPonAzure](/TechnicalEnablement/Microsoft_Azure_CAF_Enablement_Kit_for_Partners_SAPonAzure.docx)
+ * [ToolKit_Docs_SAPonAzure_Migration_Deployment_Guide](/TechnicalEnablement/Microsoft_Azure_CAF_Enablement_Kit_for_Partners_SAPonAzure_Deployment_Guide.docx)  
+    
+## Additional Links
+ [SAP Solutions on Azure](https://azure.microsoft.com/en-us/solutions/sap/)  
+ [Azure Cloud Adoption Framework](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)  
+ [Azure Cloud Adoption Framework Partners](https://www.microsoft.com/azure/partners/adopt?filters=all)  
+ [SAP on Azure Partners Resources](https://azure.microsoft.com/en-us/solutions/sap/partners/)  
 
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+## Migration Programs  
+ [Azure Migration Program Funding](https://azure.microsoft.com/en-us/migration/migration-program)   
+ [Microsoft FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack)  
 
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+ ## Additional CAF Solution Factories
+ * [Server Migraiton CAF Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)
+ * [SQL CAF Solution Factory](https://github.com/Azure/SQL_CAF_SolutionFactory)
+ * [AKS CAF Solution Factory](https://github.com/Azure/AKS_CAF_SolutionFactory)
+ * [WVD CAF Solution Factory](https://github.com/Azure/CAF_WVD_SolutionFactory)
 
-Privacy information can be found at https://privacy.microsoft.com/en-us/
-
-Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+## Key Contributors  
+Thanks to our contributors:  
+Microsoft Team: Himanshu Rao, Manish Dhall    
+We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory   
